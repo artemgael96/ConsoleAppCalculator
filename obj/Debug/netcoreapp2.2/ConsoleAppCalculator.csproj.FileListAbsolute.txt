@@ -1,0 +1,11 @@
+D:\ConsoleAppCalculator\bin\Debug\netcoreapp2.2\ConsoleAppCalculator.deps.json
+D:\ConsoleAppCalculator\bin\Debug\netcoreapp2.2\ConsoleAppCalculator.runtimeconfig.json
+D:\ConsoleAppCalculator\bin\Debug\netcoreapp2.2\ConsoleAppCalculator.runtimeconfig.dev.json
+D:\ConsoleAppCalculator\bin\Debug\netcoreapp2.2\ConsoleAppCalculator.dll
+D:\ConsoleAppCalculator\bin\Debug\netcoreapp2.2\ConsoleAppCalculator.pdb
+D:\ConsoleAppCalculator\obj\Debug\netcoreapp2.2\ConsoleAppCalculator.csprojAssemblyReference.cache
+D:\ConsoleAppCalculator\obj\Debug\netcoreapp2.2\ConsoleAppCalculator.csproj.CoreCompileInputs.cache
+D:\ConsoleAppCalculator\obj\Debug\netcoreapp2.2\ConsoleAppCalculator.AssemblyInfoInputs.cache
+D:\ConsoleAppCalculator\obj\Debug\netcoreapp2.2\ConsoleAppCalculator.AssemblyInfo.cs
+D:\ConsoleAppCalculator\obj\Debug\netcoreapp2.2\ConsoleAppCalculator.dll
+D:\ConsoleAppCalculator\obj\Debug\netcoreapp2.2\ConsoleAppCalculator.pdb
